@@ -1,0 +1,21 @@
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
+#logo {
+	padding: -5px;
+	margin-bottom: 50px;
+}
+#navigator {
+	list-style-type: none;
+	float: left;
+}
+p {
+	text-align: center;
+}
+.grupal {
+	height: 500px;
+	width: 700px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
