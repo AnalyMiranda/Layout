@@ -6,16 +6,58 @@
 	padding: -5px;
 	margin-bottom: 50px;
 }
-#navigator {
+.vertical{
+	border: 1px solid black;
+	height: 20px;
+	margin-left: 25px;
+	margin-bottom: -5px;
+	display: inline-block;
+}
+li {
 	list-style-type: none;
 	float: left;
+	padding-right: 22px;
+	margin-bottom: 20px;
+	font-size: 25px;
+	display: inline-block;
 }
 p {
 	text-align: center;
+	font-size: 30px;
 }
 .grupal {
 	height: 500px;
 	width: 700px;
 	margin-top: 30px;
 	margin-bottom: 30px;
+}
+span {
+	position: relative;
+	color: #FFFFFF;
+	left: 75px;
+	bottom: 30px;
+	font-family: Arial;
+}
+.bloqueu {
+	height: 250px;
+	width: 800px;
+	margin-top: 30px;
+	padding-left: 3px;
+	display: inline-block;
+}
+.profile{
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	padding-left: 5px;
+	padding-right: 20px;
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+}
+.bloqued{
+	height: 300px;
+	width: 800px;
+	margin-top: -10px;
+	padding-left: 3px;
+	display: inline-block;
 }
